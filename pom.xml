@@ -43,13 +43,6 @@
             <version>1.9.2-R0.1-SNAPSHOT</version>
             <scope>provided</scope>
         </dependency>
-        <!-- Bukkit API-->
-        <dependency>
-            <groupId>org.bukkit</groupId>
-            <artifactId>bukkit</artifactId>
-            <version>1.9.2-R0.1-SNAPSHOT</version>
-            <scope>provided</scope>
-        </dependency>
         <!-- JavaDocs: Spigot API-->
         <dependency>
             <groupId>org.spigotmc</groupId>
@@ -57,24 +50,10 @@
             <version>1.9.2-R0.1-SNAPSHOT</version>
             <classifier>javadoc</classifier>
         </dependency>
-        <!-- JavaDocs: Bukkit API-->
-        <dependency>
-            <groupId>org.bukkit</groupId>
-            <artifactId>bukkit</artifactId>
-            <version>1.9.2-R0.1-SNAPSHOT</version>
-            <classifier>javadoc</classifier>
-        </dependency>
         <!-- Sources: Spigot API-->
         <dependency>
             <groupId>org.spigotmc</groupId>
             <artifactId>spigot-api</artifactId>
-            <version>1.9.2-R0.1-SNAPSHOT</version>
-            <classifier>sources</classifier>
-        </dependency>
-        <!-- Sources: Bukkit API-->
-        <dependency>
-            <groupId>org.bukkit</groupId>
-            <artifactId>bukkit</artifactId>
             <version>1.9.2-R0.1-SNAPSHOT</version>
             <classifier>sources</classifier>
         </dependency>
