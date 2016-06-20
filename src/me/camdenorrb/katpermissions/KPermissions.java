@@ -17,7 +17,6 @@ public class KPermissions extends JavaPlugin {
         instance = this;
         saveDefaultConfig();
         initRedis();
-        CatJokes.hackYourComputerAndTakeYourPersonalInformation();
     }
 
     @Override
